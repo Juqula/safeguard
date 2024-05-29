@@ -1,0 +1,16 @@
+{
+  "name": "safeguard",
+  "version": "1.0.0",
+  "description": "This Application which is called safeGuard ,is for students to register their appliances when they are moving to on campus residents. A student will register their items when they are on the main gate and the Security(Admin) will confirm the appliance that is being registered by a student.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "mr rich",
+  "license": "ISC"
+}
